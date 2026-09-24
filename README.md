@@ -130,11 +130,6 @@ _Add screenshots of your home page, menu, cart and admin panel here._
 - Ratings and reviews for dishes
 - Responsive design improvements for mobile
 
----
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome. Feel free to fork the repository and open a pull request.
 
 ---
 
